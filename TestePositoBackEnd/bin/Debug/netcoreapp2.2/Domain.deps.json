@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "1e0f2d9ee93d995428da7c45a5c58686add05c10"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Domain/1.0.0": {
+        "dependencies": {
+          "prmToolkit.NotificationPattern": "1.1.2"
+        },
+        "runtime": {
+          "Domain.dll": {}
+        }
+      },
+      "prmToolkit.NotificationPattern/1.1.2": {
+        "runtime": {
+          "lib/netstandard1.0/prmToolkit.NotificationPattern.dll": {
+            "assemblyVersion": "1.1.2.0",
+            "fileVersion": "1.1.2.0"
+          }
+        },
+        "resources": {
+          "lib/netstandard1.0/en-US/prmToolkit.NotificationPattern.resources.dll": {
+            "locale": "en-US"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "prmToolkit.NotificationPattern/1.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XrOUfGO+krKzP7rdnY4h7syGdrO94ZnrT7PFIUJqWDy8tVbGhBiIimj0E++T62BKZOYHJ4nP3dss0NsgSxfdcA==",
+      "path": "prmtoolkit.notificationpattern/1.1.2",
+      "hashPath": "prmtoolkit.notificationpattern.1.1.2.nupkg.sha512"
+    }
+  }
+}
