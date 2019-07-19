@@ -1,0 +1,14 @@
+C:\Users\marce\Documents\ProjetoPositivo\Backend-test\bin\Debug\netcoreapp2.1\Backend-test.deps.json
+C:\Users\marce\Documents\ProjetoPositivo\Backend-test\bin\Debug\netcoreapp2.1\Backend-test.runtimeconfig.json
+C:\Users\marce\Documents\ProjetoPositivo\Backend-test\bin\Debug\netcoreapp2.1\Backend-test.runtimeconfig.dev.json
+C:\Users\marce\Documents\ProjetoPositivo\Backend-test\bin\Debug\netcoreapp2.1\Backend-test.dll
+C:\Users\marce\Documents\ProjetoPositivo\Backend-test\bin\Debug\netcoreapp2.1\Backend-test.pdb
+C:\Users\marce\Documents\ProjetoPositivo\Backend-test\obj\Debug\netcoreapp2.1\Backend-test.csprojAssemblyReference.cache
+C:\Users\marce\Documents\ProjetoPositivo\Backend-test\obj\Debug\netcoreapp2.1\Backend-test.csproj.CoreCompileInputs.cache
+C:\Users\marce\Documents\ProjetoPositivo\Backend-test\obj\Debug\netcoreapp2.1\Backend-test.RazorAssemblyInfo.cache
+C:\Users\marce\Documents\ProjetoPositivo\Backend-test\obj\Debug\netcoreapp2.1\Backend-test.RazorAssemblyInfo.cs
+C:\Users\marce\Documents\ProjetoPositivo\Backend-test\obj\Debug\netcoreapp2.1\Backend-test.AssemblyInfoInputs.cache
+C:\Users\marce\Documents\ProjetoPositivo\Backend-test\obj\Debug\netcoreapp2.1\Backend-test.AssemblyInfo.cs
+C:\Users\marce\Documents\ProjetoPositivo\Backend-test\obj\Debug\netcoreapp2.1\Backend-test.RazorTargetAssemblyInfo.cache
+C:\Users\marce\Documents\ProjetoPositivo\Backend-test\obj\Debug\netcoreapp2.1\Backend-test.dll
+C:\Users\marce\Documents\ProjetoPositivo\Backend-test\obj\Debug\netcoreapp2.1\Backend-test.pdb
